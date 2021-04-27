@@ -17,6 +17,6 @@
         "express": "^4.17.1",
         "express-handlebars": "^3.1.0",
         "method-override": "^3.0.0",
-        "redis": "^2.8.0"
+        "redis": "^3.1.1"
     }
 }
